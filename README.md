@@ -1,6 +1,7 @@
 # Agentic Scaffolding Demonstration
 
 This project demonstrates the concept of Agentic Scaffolding in AI Agent Ecosystems. It provides a practical implementation of the theoretical framework described in "An Algorithmic Framework for Agentic Scaffolding in AI Agent Ecosystems."
+![agentic_scaffolding_interface](https://github.com/user-attachments/assets/fa577f96-7a68-4d0f-8da7-56223acb9550)
 
 ## What is Agentic Scaffolding?
 
